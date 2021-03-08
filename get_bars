@@ -1,0 +1,50 @@
+{
+    "code": 1,
+    "data": [
+        {
+            "id": 22,
+            "name": "MANDARINE BAR 2 / Dendiste",
+            "description": "DESC Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le fa 2 FOF",
+            "stat": 1,
+            "media_url": "/upload/media/66c071b76cbd0e92c80be10b678c1009c4.png",
+            "geo_lat": "30.4028223",
+            "geo_lng": "-9.5771666"
+        },
+        {
+            "id": 56,
+            "name": "MANDARINE2 / Dendiste",
+            "description": "DESC Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le fa 2 FOF",
+            "stat": 1,
+            "media_url": "/assets/images/user/user.png",
+            "geo_lat": null,
+            "geo_lng": null
+        },
+        {
+            "id": 21,
+            "name": "BAR LE KAOUSIS / HOLY DAY",
+            "description": "DES 007 FOF alamdm",
+            "stat": 1,
+            "media_url": "/assets/images/user/user.png",
+            "geo_lat": "30.4007284",
+            "geo_lng": "-9.5792912"
+        },
+        {
+            "id": 57,
+            "name": "Yassin Bar",
+            "description": null,
+            "stat": 1,
+            "media_url": "/assets/images/user/user.png",
+            "geo_lat": null,
+            "geo_lng": null
+        },
+        {
+            "id": 55,
+            "name": "bar",
+            "description": "Abdel Bar description",
+            "stat": 1,
+            "media_url": "/upload/media/f37de81a9f7e0c3350ce950a3219be19.jpg",
+            "geo_lat": "30.401133302402222",
+            "geo_lng": "30.401133302402222"
+        }
+    ]
+}
