@@ -1,0 +1,28 @@
+{
+    "code": 1,
+    "data": {
+        "user": {
+            "id": 113,
+            "fname": "Lamine1",
+            "lname": "Diatta1",
+            "phone": "0655443322",
+            "usermail": "lamine@ajicreative.fr",
+            "userpass": "",
+            "userRole": "",
+            "city": "Nice",
+            "address": null,
+            "geoLat": 43.29669261278496,
+            "geoLng": 5.3610829685685335,
+            "qrcode": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+            "facebook_id": null,
+            "google_id": null,
+            "stat": 0,
+            "created": "2021-03-03T08:44:31.000Z",
+            "updated": "2021-03-03T08:44:31.000Z",
+            "deleted": 0,
+            "userType": 1,
+            "paymentType": 1,
+            "image": null
+        }
+    }
+}
